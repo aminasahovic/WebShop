@@ -1,0 +1,72 @@
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\bin\Debug\net6.0\appsettings.json
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\bin\Debug\net6.0\eProdaja.exe
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\bin\Debug\net6.0\eProdaja.deps.json
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\bin\Debug\net6.0\eProdaja.runtimeconfig.json
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\bin\Debug\net6.0\eProdaja.dll
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\bin\Debug\net6.0\eProdaja.pdb
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.csproj.AssemblyReference.cache
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.AssemblyInfoInputs.cache
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.AssemblyInfo.cs
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.csproj.CoreCompileInputs.cache
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\staticwebassets\msbuild.eProdaja.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\staticwebassets\msbuild.build.eProdaja.props
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eProdaja.props
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eProdaja.props
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\scopedcss\bundle\eProdaja.styles.css
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.csproj.CopyComplete
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.dll
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\refint\eProdaja.dll
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.pdb
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.genruntimeconfig.cache
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\obj\Debug\net6.0\ref\eProdaja.dll
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\bin\Debug\net6.0\eProdaja.Model.dll
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\bin\Debug\net6.0\eProdaja.Services.dll
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\bin\Debug\net6.0\eProdaja.Model.pdb
+C:\Users\Amina\Desktop\RSII - Theater\Theater-App\eProdaja\eProdaja\bin\Debug\net6.0\eProdaja.Services.pdb
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\bin\Debug\net6.0\appsettings.json
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\bin\Debug\net6.0\eProdaja.exe
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\bin\Debug\net6.0\eProdaja.deps.json
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\bin\Debug\net6.0\eProdaja.runtimeconfig.json
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\bin\Debug\net6.0\eProdaja.dll
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\bin\Debug\net6.0\eProdaja.pdb
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\bin\Debug\net6.0\eProdaja.Model.dll
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\bin\Debug\net6.0\eProdaja.Services.dll
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\bin\Debug\net6.0\eProdaja.Model.pdb
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\bin\Debug\net6.0\eProdaja.Services.pdb
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.csproj.AssemblyReference.cache
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.AssemblyInfoInputs.cache
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.AssemblyInfo.cs
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.csproj.CoreCompileInputs.cache
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\staticwebassets\msbuild.eProdaja.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\staticwebassets\msbuild.build.eProdaja.props
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eProdaja.props
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eProdaja.props
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\scopedcss\bundle\eProdaja.styles.css
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.csproj.CopyComplete
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.dll
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\refint\eProdaja.dll
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.pdb
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\eProdaja.genruntimeconfig.cache
+C:\Users\Amina\Desktop\WebShop\WebShop\eProdaja\eProdaja\obj\Debug\net6.0\ref\eProdaja.dll

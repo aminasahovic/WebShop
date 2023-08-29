@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "eProdaja.Services/1.0.0": {
+        "dependencies": {
+          "eProdaja.Model": "1.0.0"
+        },
+        "runtime": {
+          "eProdaja.Services.dll": {}
+        }
+      },
+      "eProdaja.Model/1.0.0": {
+        "runtime": {
+          "eProdaja.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eProdaja.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eProdaja.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
