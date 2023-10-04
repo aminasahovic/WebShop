@@ -31,6 +31,8 @@ public partial class Proizvodi
 
     public virtual ICollection<NarudzbaStavke> NarudzbaStavkes { get; set; } = new List<NarudzbaStavke>();
 
+    public virtual ICollection<Ocjene> Ocjenes { get; set; } = new List<Ocjene>();
+
     public virtual ICollection<UlazStavke> UlazStavkes { get; set; } = new List<UlazStavke>();
 
     public virtual VrsteProizvodum Vrsta { get; set; } = null!;

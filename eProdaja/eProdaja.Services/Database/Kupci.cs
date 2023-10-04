@@ -24,4 +24,6 @@ public partial class Kupci
     public bool Status { get; set; }
 
     public virtual ICollection<Narudzbe> Narudzbes { get; set; } = new List<Narudzbe>();
+
+    public virtual ICollection<Ocjene> Ocjenes { get; set; } = new List<Ocjene>();
 }

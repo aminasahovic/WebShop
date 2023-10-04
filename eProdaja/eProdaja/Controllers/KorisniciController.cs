@@ -14,9 +14,9 @@ namespace eProdaja.Controllers
         private readonly IKorisniciService korisniciService;
 
 
-        public KorisniciController( IKorisniciService service, IMapper mapper)
+        public KorisniciController(IKorisniciService service, IMapper mapper)
         {
-            korisniciService= service;
+            korisniciService = service;
         }
 
         [HttpGet]
@@ -28,6 +28,11 @@ namespace eProdaja.Controllers
         public Model.Korisnici Insert(KorisniciInsertRequest request)
         {
             return korisniciService.Insert(request);
+        }
+        [HttpPut("{id}")]
+        public Model.Korisnici Update(int id, KorisniciUpdateRequest request)
+        {
+            return korisniciService.Update(id, request);
         }
     }
 }

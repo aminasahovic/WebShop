@@ -34,15 +34,22 @@ namespace eProdaja.Services
             var entity = new Database.Korisnici();
             mapper.Map(request, entity);
 
-           // entity.KorisnikId = Nullable;
             entity.LozinkaSalt = GenerateSalt();
             entity.LozinkaHash = GenerateHash(entity.LozinkaSalt, request.Password);
-     
+
             context.Korisnicis.Add(entity);
             context.SaveChanges();
 
             return mapper.Map<Model.Korisnici>(entity);
 
+        }
+        public Model.Korisnici Update(int id, KorisniciUpdateRequest request)
+        {
+            var entity = context.Korisnicis.Find(id);
+            mapper.Map(request, entity);
+
+            context.SaveChanges();
+            return mapper.Map<Model.Korisnici>(entity);
 
         }
 
@@ -70,5 +77,6 @@ namespace eProdaja.Services
             return Convert.ToBase64String(inArray);
         }
 
+       
     }
 }
