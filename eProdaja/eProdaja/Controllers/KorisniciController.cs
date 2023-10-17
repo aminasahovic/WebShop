@@ -12,17 +12,15 @@ namespace eProdaja.Controllers
     public class KorisniciController : ControllerBase
     {
         private readonly IKorisniciService korisniciService;
-
-
         public KorisniciController(IKorisniciService service, IMapper mapper)
         {
             korisniciService = service;
         }
 
         [HttpGet]
-        public IEnumerable<Model.Korisnici> Get()
+        public async Task<IEnumerable<Model.Korisnici>> Get()
         {
-            return korisniciService.GetKorisnici();
+            return await korisniciService.GetKorisnici();
         }
         [HttpPost]
         public Model.Korisnici Insert(KorisniciInsertRequest request)

@@ -23,9 +23,9 @@ namespace eProdaja.Services
             this.context = context;
             this.mapper = mapper;
         }
-        public List<Model.Korisnici> GetKorisnici()
+        public async Task<List<Model.Korisnici>> GetKorisnici()
         {
-            var entityData = context.Korisnicis.ToList();
+            var entityData = await context.Korisnicis.ToListAsync();
             return mapper.Map<List<Model.Korisnici>>(entityData);
         }
 

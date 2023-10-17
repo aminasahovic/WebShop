@@ -9,7 +9,7 @@ namespace eProdaja.Services
 {
     public interface IKorisniciService
     {
-        List<Model.Korisnici> GetKorisnici();
+        Task<List<Model.Korisnici>> GetKorisnici();
         Model.Korisnici Insert(KorisniciInsertRequest request);
         Model.Korisnici Update(int id,KorisniciUpdateRequest request);
     }
